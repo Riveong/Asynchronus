@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Asynchronus</string>
+    <string name="kelar">Kelar euy</string>
+    <string name="status_d">status %d %%</string>
+</resources>
